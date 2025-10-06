@@ -32,7 +32,7 @@ A step-by-step guide to **disable or remap the Essential Key** on CMF and Nothin
 1. Download the `platform-tools.zip` from this repo  
 2. Extract it to a folder on your PC
 
-## Step 3:Use ADB via Terminal
+## Step 3: Use ADB via Terminal
 
 1. Open a terminal or command prompt in that folder  "C:\...\platform-tools"
 > if you don't know how to do this navigate to the folder you exracted the zip to in file explorer and in the bar next to search type cmd
