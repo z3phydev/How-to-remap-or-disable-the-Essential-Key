@@ -78,3 +78,6 @@ adb shell pm disable-user --user 0 com.nothing.ntessentialrecorder
 9. Make sure it's Enabled and Tap "Done"
 
 ## Congratulations! The Essential Key is now remapped to your chosen action. You can always go back and adjust it anytime.
+
+If this guide helped you, consider giving the repo a star!
+If something didn’t work, you have suggestions, or you just want to help improve this guide, please open an issue.
